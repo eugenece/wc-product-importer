@@ -20,7 +20,7 @@ WooCommerce 2.2 at least on the store
 
 4. If all credentials are correct, click Insert Products to start import.
 
-%. For updating products, click Run Cron.
+5. For updating products, click Run Cron.
 
 ## Credit
 
