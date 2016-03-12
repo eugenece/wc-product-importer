@@ -25,4 +25,5 @@ WooCommerce 2.2 at least on the store
 ## Credit
 
 WooCommerce REST API PHP Client Library
+
 Copyright (c) 2013-2014 - [Gerhard Potgieter](http://gerhardpotgieter.com/), [Max Rice](http://maxrice.com) and other contributors
